@@ -1,0 +1,44 @@
+name: RonSteffens
+analytics: {}
+purpose:
+  - type: contact
+    url: 'mailto:ronsteffens@me.com'
+    label: Connect - for writing & teaching
+  - type: contact
+    url: 'mailto:editor@wildfiremagazine.org'
+    label: 'Contact - Editor, Wildfire Magazine'
+github: true
+description: 'Notes on travels & our times, with wildfires & resilience'
+author:
+  name: Ron Steffens
+  email: ronsteffens@me.com
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+content: []
+layout_spectrum: 0.01379644466407302
+color:
+  lightness: 0.6843704153965274
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+  saturation: 0.7434440535945946
+  brandStrength: 0.3744067214948522
+  rhythmicContrast: 0.7430362266438579
+content_rating:
+  adult: false
+typography_spectrum: 0.4024032933397754
+opengraph: {}
+title: 'journeys &: ron steffens '
